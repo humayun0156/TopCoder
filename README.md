@@ -1,3 +1,3 @@
 Topcoder
 ========
-[SRM 688](./SRM_688)
+[SRM 688](./src/main/java/SRM_688)
